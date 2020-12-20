@@ -1,0 +1,187 @@
+/*
+.first-title{
+    color:red;
+}
+
+#link{
+    color:black;
+}
+
+*/
+
+/*
+h1{
+    color:blue;
+}
+.random h1{
+    color:purple;
+}
+* {
+  font-size:20px;
+}
+
+.my-list + ul{
+    list-style: none;
+}
+ul > li {
+    color:pink;
+}
+.nav-links  a{
+    color:black;
+}
+*/
+
+/*
+.links li:nth-child(1){
+    color:blue;
+}
+*/
+
+
+/*
+h1{               
+    color:blue;      
+}
+.header{            
+    color:red;      
+}
+#head{             
+    color:coral;
+}
+*/
+
+/* margin --> outer space
+   paddding --> inner space
+*/
+
+/*
+button{
+    margin:100px;
+    padding:100px;
+    padding: 20px 30px 25px 35px; 
+}
+
+h1{
+    background-color: red;
+}
+*/
+
+
+/*
+*{
+    margin:0;
+    padding: 0;
+    border-sizing: border-box;
+}
+div{
+    background: red;
+    color: white;
+    width:100%;
+    padding:20px;
+    margin-top:20px;
+    border: 50px solid black;
+}
+*/
+
+
+/*
+.text-section{
+    font-size:20px;
+    font-size:1.5em;
+}
+.text-section div{
+    font-size:20px;
+    font-size:1.5em;
+}
+*/
+
+/*
+button{
+    margin:20rem;
+    padding:2rem 4rem;
+    background:none;
+    border:0.1rem solid red;
+    color:white;
+    font-size: 2.4rem;
+    border-radius:1rem;
+    border-top-left-radius: 2rem;
+    background: blue;
+}
+*/
+
+/*
+a{
+    background: lightblue;
+    height:10rem;
+    width:10rem;
+    margin:3rem;
+}
+
+a{
+    display:block;
+    height: 3rem;
+    text-align: center;
+    background: lightblue;
+}
+a{
+    display:inline-block;
+    height: 20rem;
+    width: 20rem;
+    margin:2rem;
+}
+*/
+
+/*
+html,body{
+    height:100%;
+}
+.container{
+    background:coral;
+    width:80%;
+    height:80%;
+    margin:auto;
+}
+.box1{
+    width:20%;
+    height:20%;
+    background:red;
+}
+.box2{
+    width:20%;
+    height:20%;
+    background:blue;
+}
+.box3{
+    width:20%;
+    height:20%;
+    background:black;
+}
+*/
+
+/*
+button{
+    padding: 2rem 4rem;
+    cursor:pointer;
+}
+button:hover{
+    background:coral;
+    padding: 2rem 4rem;
+}
+button:focus{
+    background:pink;
+    padding: 2rem 4rem;
+}
+input:focus{
+    background:pink;
+}
+*/
+
+h1{
+    font-size:4rem;
+}
+h1::after {
+    content: "me";
+}
+
+
+
